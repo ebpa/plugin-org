@@ -1,0 +1,23 @@
+{
+  "name": "plugin-org",
+  "registry": "jspm",
+  "version": "0.0.1",
+  "description": "Emacs org-mode file loading plugin",
+  "main": "org.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebpa/plugin-org.git"
+  },
+  "author": "Erik Anderson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ebpa/plugin-org/issues"
+  },
+  "homepage": "https://github.com/ebpa/plugin-org#readme",
+  "dependencies": {
+    "org": "^0.2.0"
+  }
+}
