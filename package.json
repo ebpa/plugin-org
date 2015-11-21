@@ -1,5 +1,6 @@
 {
   "name": "plugin-org",
+  "registry": "jspm",
   "version": "0.0.1",
   "description": "Emacs org-mode file loading plugin",
   "main": "org.js",
@@ -17,6 +18,6 @@
   },
   "homepage": "https://github.com/ebpa/plugin-org#readme",
   "dependencies": {
-    "org": "^0.2.0"
+    "org": "npm:org@^0.2.0"
   }
 }
