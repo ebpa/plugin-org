@@ -18,6 +18,11 @@
   },
   "homepage": "https://github.com/ebpa/plugin-org#readme",
   "dependencies": {
-    "org": "npm:org@^0.2.0"
+    "org": "github:ebpa/org-js@properties"
+  },
+  "devDependencies": {
+    "babel": "npm:babel-core@^5.8.24",
+    "babel-runtime": "npm:babel-runtime@^5.8.24",
+    "core-js": "npm:core-js@^1.1.4"
   }
 }
